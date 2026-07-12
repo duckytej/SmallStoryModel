@@ -1,0 +1,170 @@
+[22:18:09] Log file: checkpoints\train_dummy.log
+[22:18:09] ========================================================================
+[22:18:09] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:18:09] ========================================================================
+[22:18:09] [hf] No HF token supplied — private/gated datasets will fail.
+[22:18:09] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:18:09] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:18:09] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:18:09] ------------------------------------------------------------------------
+[22:18:09] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:18:09] ------------------------------------------------------------------------
+[22:18:09] [model] Building Hyperion-v3 ...
+[22:18:09] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'd_ff': 768, 'window_size': 256, 'attn_res_n_blocks': 2, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:19:28] Log file: checkpoints\train_dummy.log
+[22:19:28] ========================================================================
+[22:19:28] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:19:28] ========================================================================
+[22:19:28] [hf] No HF token supplied — private/gated datasets will fail.
+[22:19:29] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:19:29] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:19:29] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:19:29] ------------------------------------------------------------------------
+[22:19:29] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:19:29] ------------------------------------------------------------------------
+[22:19:29] [model] Building Hyperion-v3 ...
+[22:19:29] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'd_ff': 768, 'window_size': 256, 'attn_res_n_blocks': 2, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:25:11] Log file: checkpoints\train_dummy.log
+[22:25:11] ========================================================================
+[22:25:11] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:25:11] ========================================================================
+[22:25:11] [hf] No HF token supplied — private/gated datasets will fail.
+[22:25:11] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:25:11] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:25:11] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:25:11] ------------------------------------------------------------------------
+[22:25:11] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:25:11] ------------------------------------------------------------------------
+[22:25:11] [model] Building Hyperion-v3 ...
+[22:25:11] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'window_size': 256, 'attn_res_n_blocks': 2, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:27:45] Log file: checkpoints\train_dummy.log
+[22:27:45] ========================================================================
+[22:27:45] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:27:45] ========================================================================
+[22:27:45] [hf] No HF token supplied — private/gated datasets will fail.
+[22:27:45] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:27:45] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:27:45] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:27:45] ------------------------------------------------------------------------
+[22:27:45] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:27:45] ------------------------------------------------------------------------
+[22:27:45] [model] Building Hyperion-v3 ...
+[22:27:45] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'window_size': 256, 'attn_res_n_blocks': 2, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:28:46] Log file: checkpoints\train_dummy.log
+[22:28:46] ========================================================================
+[22:28:46] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:28:46] ========================================================================
+[22:28:46] [hf] No HF token supplied — private/gated datasets will fail.
+[22:28:47] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:28:47] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:28:47] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:28:47] ------------------------------------------------------------------------
+[22:28:47] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:28:47] ------------------------------------------------------------------------
+[22:28:47] [model] Building Hyperion-v3 ...
+[22:28:47] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'window_size': 256, 'attn_res_n_blocks': 2, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:29:38] Log file: checkpoints\train_dummy.log
+[22:29:38] ========================================================================
+[22:29:38] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:29:38] ========================================================================
+[22:29:38] [hf] No HF token supplied — private/gated datasets will fail.
+[22:29:38] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:29:38] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:29:38] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:29:38] ------------------------------------------------------------------------
+[22:29:38] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:29:38] ------------------------------------------------------------------------
+[22:29:38] [model] Building Hyperion-v3 ...
+[22:29:38] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'window_size': 256, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:29:39] [model] Parameters:  21.61M total
+[22:29:39] [model] d_model=384  layers=8  heads=6Q / 1KV  (GQA 6:1)
+[22:29:39] [model] vocab=16384  weight_tied=True  moe=OFF
+[22:29:39] [model] seq_packing=True  seq_len=1024  eos_id=1
+[22:29:39] [model] mtp=ON  k=1  ctm=OFF
+[22:29:39] [model] VRAM after model init: 0.09 GB
+[22:29:39] ------------------------------------------------------------------------
+[22:29:39] [data] Building dataset iterator  split=train  seq_len=1024  batch_size=2
+[22:29:55] [data] Iterator ready
+[22:29:55] ------------------------------------------------------------------------
+[22:29:59] [optim] Muon  params=10.06M  init_lr=0.02
+[22:29:59] [optim] AdamW params=11.55M  init_lr=0.2
+[22:29:59] [optim] Warmup=400 steps  Cosine decay over 10000 steps
+[22:29:59] ------------------------------------------------------------------------
+[22:29:59] [wandb] Disabled (not installed or run=dummy)
+[22:29:59] ========================================================================
+[22:29:59] [train] Starting training loop
+[22:29:59] [train] total_steps=10000  grad_accum=16  effective_batch≈32K tokens/step
+[22:29:59] [train] Checkpoints every 2000 steps → checkpoints/
+[22:29:59] ========================================================================
+[22:29:59]     step |      loss |     bpb |  z_loss | mtp_loss | jepa_loss |    lr_muon |   lr_adamw |    tok/s | vram_gb
+[22:29:59] ------------------------------------------------------------------------
+[22:31:30] Log file: checkpoints\train_dummy.log
+[22:31:30] ========================================================================
+[22:31:30] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[22:31:30] ========================================================================
+[22:31:30] [hf] No HF token supplied — private/gated datasets will fail.
+[22:31:30] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[22:31:30] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[22:31:30] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[22:31:30] ------------------------------------------------------------------------
+[22:31:30] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[22:31:30] ------------------------------------------------------------------------
+[22:31:30] [model] Building Hyperion-v3 ...
+[22:31:30] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'window_size': 256, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[22:31:31] [model] Parameters:  21.61M total
+[22:31:31] [model] d_model=384  layers=8  heads=6Q / 1KV  (GQA 6:1)
+[22:31:31] [model] vocab=16384  weight_tied=True  moe=OFF
+[22:31:31] [model] seq_packing=True  seq_len=1024  eos_id=1
+[22:31:31] [model] mtp=ON  k=1  ctm=OFF
+[22:31:31] [model] VRAM after model init: 0.09 GB
+[22:31:31] ------------------------------------------------------------------------
+[22:31:31] [data] Building dataset iterator  split=train  seq_len=1024  batch_size=2
+[22:31:46] [data] Iterator ready
+[22:31:46] ------------------------------------------------------------------------
+[22:31:49] [optim] Muon  params=10.06M  init_lr=0.02
+[22:31:49] [optim] AdamW params=11.55M  init_lr=0.2
+[22:31:49] [optim] Warmup=400 steps  Cosine decay over 10000 steps
+[22:31:49] ------------------------------------------------------------------------
+[22:31:49] [wandb] Disabled (not installed or run=dummy)
+[22:31:49] ========================================================================
+[22:31:49] [train] Starting training loop
+[22:31:49] [train] total_steps=10000  grad_accum=16  effective_batch≈32K tokens/step
+[22:31:49] [train] Checkpoints every 2000 steps → checkpoints/
+[22:31:49] ========================================================================
+[22:31:49]     step |      loss |     bpb |  z_loss | mtp_loss | jepa_loss |    lr_muon |   lr_adamw |    tok/s | vram_gb
+[22:31:49] ------------------------------------------------------------------------
+[23:26:19] Log file: checkpoints\train_dummy.log
+[23:26:19] ========================================================================
+[23:26:19] Hyperion-v3 Training  |  run=dummy  |  preset=3050ti
+[23:26:19] ========================================================================
+[23:26:19] [hf] No HF token supplied — private/gated datasets will fail.
+[23:26:19] [device] cuda  dtype=bfloat16  amp=True  scaler=False
+[23:26:19] [device] GPU: NVIDIA GeForce RTX 3050 Ti Laptop GPU  VRAM: 4.3 GB
+[23:26:19] [device] CUDA 12.6  PyTorch 2.12.0+cu126
+[23:26:19] ------------------------------------------------------------------------
+[23:26:19] [tokenizer] Loaded tokenizer.json  vocab=16384  eos_id=1
+[23:26:19] ------------------------------------------------------------------------
+[23:26:19] [model] Building Hyperion-v3 ...
+[23:26:19] [model] Config: {'depth': 8, 'aspect_ratio': 48, 'head_dim': 64, 'max_seq_len': 1024, 'window_size': 256, 'use_mtp': True, 'mtp_k': 1, 'use_ctm': False, 'jepa_weight': 0.05, 'use_moe': False, 'vocab_size': 16384, 'force_dense': True, 'use_sequence_packing': True}
+[23:26:20] [model] Parameters:  21.61M total
+[23:26:20] [model] d_model=384  layers=8  heads=6Q / 1KV  (GQA 6:1)
+[23:26:20] [model] vocab=16384  weight_tied=True  moe=OFF
+[23:26:20] [model] seq_packing=True  seq_len=1024  eos_id=1
+[23:26:20] [model] mtp=ON  k=1  ctm=OFF
+[23:26:20] [model] VRAM after model init: 0.09 GB
+[23:26:20] ------------------------------------------------------------------------
+[23:26:20] [data] Building dataset iterator  split=train  seq_len=1024  batch_size=2
+[23:27:02] [data] Iterator ready
+[23:27:02] ------------------------------------------------------------------------
+[23:27:03] [optim] Muon  params=10.06M  init_lr=0.02
+[23:27:03] [optim] AdamW params=11.55M  init_lr=0.2
+[23:27:03] [optim] Warmup=400 steps  Cosine decay over 10000 steps
+[23:27:03] ------------------------------------------------------------------------
+[23:27:03] [wandb] Disabled (not installed or run=dummy)
+[23:27:03] ========================================================================
+[23:27:03] [train] Starting training loop
+[23:27:03] [train] total_steps=10000  grad_accum=16  effective_batch≈32K tokens/step
+[23:27:03] [train] Checkpoints every 2000 steps → checkpoints/
+[23:27:03] ========================================================================
+[23:27:03]     step |      loss |     bpb |  z_loss | mtp_loss | jepa_loss |    lr_muon |   lr_adamw |    tok/s | vram_gb
+[23:27:03] ------------------------------------------------------------------------

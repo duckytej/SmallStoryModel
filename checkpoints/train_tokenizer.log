@@ -1,0 +1,119 @@
+[19:10:47] Log file: checkpoints\train_tokenizer.log
+[19:10:47] [hf] No HF token supplied — private/gated datasets will fail.
+[19:12:32] Log file: checkpoints\train_tokenizer.log
+[19:12:33] [hf] Logged in with token: hf_IpKIO*****************************
+[19:12:34] [tokenizer] Training BPE  vocab=16384  samples=50000
+[19:12:34] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[19:12:34] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia)...
+[19:15:37] Log file: checkpoints\train_tokenizer.log
+[19:15:39] [hf] Logged in with token: hf_IpKIO*****************************
+[19:15:40] [tokenizer] Training BPE  vocab=16384  samples=50000
+[19:15:40] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[19:15:40] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia)...
+[19:20:13] Log file: checkpoints\train_tokenizer.log
+[19:20:14] [hf] Logged in with token: hf_IpKIO*****************************
+[19:20:15] [tokenizer] Training BPE  vocab=16384  samples=50000
+[19:20:15] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[19:20:15] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[19:22:34] Log file: checkpoints\train_tokenizer.log
+[19:22:35] [hf] Logged in with token: hf_IpKIO*****************************
+[19:22:36] [tokenizer] Training BPE  vocab=16384  samples=50000
+[19:22:36] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[19:22:36] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[19:25:32] Log file: checkpoints\train_tokenizer.log
+[19:25:33] [hf] Logged in with token: hf_IpKIO*****************************
+[19:25:34] [tokenizer] Training BPE  vocab=16384  samples=50000
+[19:25:34] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[19:25:34] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[21:43:55] Log file: checkpoints\train_tokenizer.log
+[21:43:57] [hf] Logged in with token: hf_IpKIO*****************************
+[21:43:58] [tokenizer] Training BPE  vocab=16384  samples=50000
+[21:43:58] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[21:43:58] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[21:52:08] Log file: checkpoints\train_tokenizer.log
+[21:52:08] [hf] Logged in with token: hf_IpKIO*****************************
+[21:52:09] [tokenizer] Training BPE  vocab=16384  samples=50000
+[21:52:09] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[21:52:09] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[21:55:31] Log file: checkpoints\train_tokenizer.log
+[21:55:33] [hf] Logged in with token: hf_IpKIO*****************************
+[21:55:34] [tokenizer] Training BPE  vocab=16384  samples=50000
+[21:55:34] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[21:55:34] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[21:56:16] Log file: checkpoints\train_tokenizer.log
+[21:56:18] [hf] Logged in with token: hf_IpKIO*****************************
+[21:56:18] [tokenizer] Training BPE  vocab=16384  samples=50000
+[21:56:18] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[21:56:18] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[22:03:46] Log file: checkpoints\train_tokenizer.log
+[22:03:47] [hf] Logged in with token: hf_IpKIO*****************************
+[22:03:48] [tokenizer] Training BPE  vocab=16384  samples=50000
+[22:03:48] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[22:03:48] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[22:08:55] [tokenizer] Training BPE (this takes a few minutes)...
+[22:10:24] Log file: checkpoints\train_tokenizer.log
+[22:10:24] [hf] Logged in with token: hf_IpKIO*****************************
+[22:10:25] [tokenizer] Training BPE  vocab=16384  samples=50000
+[22:10:25] [tokenizer] Artefacts will be saved to: C:\Users\steja\Downloads\ai\nano/
+[22:10:25] [tokenizer] Streaming datasets (smoltalk / TinyStories / python-edu / cosmopedia / fineweb)...
+[22:10:56] [tokenizer] Training BPE (this takes a few minutes)...
+[22:11:32] [tokenizer]   ... 5,000 samples streamed
+[22:11:34] [tokenizer]   ... 10,000 samples streamed
+[22:11:37] [tokenizer]   ... 15,000 samples streamed
+[22:11:39] [tokenizer]   ... 20,000 samples streamed
+[22:11:42] [tokenizer]   ... 25,000 samples streamed
+[22:11:44] [tokenizer]   ... 30,000 samples streamed
+[22:11:46] [tokenizer]   ... 35,000 samples streamed
+[22:12:00] [tokenizer]   ... 40,000 samples streamed
+[22:12:03] [tokenizer]   ... 45,000 samples streamed
+[22:12:05] [tokenizer]   ... 50,000 samples streamed
+[22:12:10] [tokenizer] Iterator finished at 50,000 samples
+[22:12:14] [tokenizer] Saved tokenizer.json → tokenizer.json  (vocab=16384)
+[22:12:14] [tokenizer] Saved vocab.json + merges.txt → C:\Users\steja\Downloads\ai\nano/
+[22:12:14] [tokenizer] Sanity encode (9 tokens): ['Hello', 'Ġworld', '!', 'ĠThe', 'Ġquick', 'Ġbrown', 'Ġfox', 'Ġ', '<eos>'] ...
+[00:16:57] Log file: checkpoints\train_tokenizer.log
+[00:16:59] [hf] Logged in with token: hf_IpKIO*****************************
+[00:17:01] [tokenizer] Training BPE  vocab=16384  samples=50000
+[00:17:01] [tokenizer] Artefacts → C:\Users\steja\Downloads\ai\nano/
+[00:17:35] [tokenizer] Training BPE (a few minutes)...
+[00:18:06] [tokenizer]   ... 5,000 samples streamed
+[00:18:11] [tokenizer]   ... 10,000 samples streamed
+[00:18:17] [tokenizer]   ... 15,000 samples streamed
+[00:18:21] [tokenizer]   ... 20,000 samples streamed
+[00:18:27] [tokenizer]   ... 25,000 samples streamed
+[00:18:32] [tokenizer]   ... 30,000 samples streamed
+[00:18:37] [tokenizer]   ... 35,000 samples streamed
+[00:18:41] [tokenizer]   ... 40,000 samples streamed
+[00:18:47] [tokenizer]   ... 45,000 samples streamed
+[00:18:52] [tokenizer]   ... 50,000 samples streamed
+[00:18:58] [tokenizer] Iterator finished at 50,000 samples
+[00:19:02] [tokenizer] Saved tokenizer.json → tokenizer.json  (vocab=16384)
+[00:19:02] [tokenizer] Saved vocab.json + merges.txt → C:\Users\steja\Downloads\ai\nano/
+[00:19:02] [tokenizer] Sanity (9 tokens): ['Hello', 'Ġworld', '!', 'ĠThe', 'Ġquick', 'Ġbrown', 'Ġfox', 'Ġ', '<eos>'] ...
+[12:15:39] Log file: checkpoints\train_tokenizer.log
+[12:15:40] [hf] Logged in with token: hf_IpKIO*****************************
+[12:15:44] [tokenizer] Training BPE  vocab=12288  samples=50000
+[12:15:44] [tokenizer] Artefacts → C:\Users\steja\Downloads\ai\nano/
+[12:17:13] Log file: checkpoints\train_tokenizer.log
+[12:17:14] [hf] Logged in with token: hf_IpKIO*****************************
+[12:17:15] [tokenizer] Training BPE  vocab=12288  samples=50000
+[12:17:15] [tokenizer] Artefacts → C:\Users\steja\Downloads\ai\nano/
+[12:20:06] Log file: checkpoints\train_tokenizer.log
+[12:20:07] [hf] Logged in with token: hf_IpKIO*****************************
+[12:20:08] [tokenizer] Training BPE  vocab=12288  samples=50000
+[12:20:08] [tokenizer] Artefacts → C:\Users\steja\Downloads\ai\nano/
+[12:21:02] [tokenizer] Training BPE (a few minutes)...
+[12:22:01] [tokenizer]   ... 5,000 samples streamed
+[12:22:02] [tokenizer]   ... 10,000 samples streamed
+[12:22:05] [tokenizer]   ... 15,000 samples streamed
+[12:22:08] [tokenizer]   ... 20,000 samples streamed
+[12:22:09] [tokenizer]   ... 25,000 samples streamed
+[12:22:12] [tokenizer]   ... 30,000 samples streamed
+[12:22:14] [tokenizer]   ... 35,000 samples streamed
+[12:22:16] [tokenizer]   ... 40,000 samples streamed
+[12:22:18] [tokenizer]   ... 45,000 samples streamed
+[12:22:20] [tokenizer]   ... 50,000 samples streamed
+[12:22:25] [tokenizer] Iterator finished at 50,000 samples
+[12:22:28] [tokenizer] Saved tokenizer.json → tokenizer.json  (vocab=12288)
+[12:22:28] [tokenizer] Saved vocab.json + merges.txt → C:\Users\steja\Downloads\ai\nano/
+[12:22:28] [tokenizer] Sanity (9 tokens): ['Hello', 'Ġworld', '!', 'ĠThe', 'Ġquick', 'Ġbrown', 'Ġfox', 'Ġ', '<eos>'] ...
