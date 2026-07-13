@@ -18,18 +18,6 @@ python infer.py --ckpt checkpoints/final.pt --tok_path tokenizer.json \
     --prompt "Once upon a time"
 ```
 
-## Benchmarks
-
-```bash
-python benchmark.py speed   --ckpt checkpoints/final.pt --tok_path tokenizer.json
-python benchmark.py quality --ckpt checkpoints/final.pt --tok_path tokenizer.json --eval_file holdout.txt
-python benchmark.py compare --ckpt checkpoints/final.pt --tok_path tokenizer.json --eval_file holdout.txt --baseline gpt2
-```
-
-| Metric | Hyperion-v3 | gpt2 (baseline) |
-|---|---|---|
-| Bits-per-byte (held-out) | _fill in_ | _fill in_ |
-| Tokens/sec (CPU/GPU) | _fill in_ | — |
 
 ## Training
 
