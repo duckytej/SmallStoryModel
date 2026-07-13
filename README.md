@@ -1,4 +1,4 @@
-# Hyperion-v3
+llm
 
 A from-scratch transformer language model (custom attention, expert-choice MoE,
 hyperbolic regularization, ternary-quant linear layers) trained from raw text
